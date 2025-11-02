@@ -17,7 +17,7 @@
 
     /* Fondo degradado animado rojo y negro */
     body {
-      background: linear-gradient(270deg, #000000, #330000, #990000, #000000);
+      background: linear-gradient(270deg, #0E2F3A, #317C92, #B42A1E, #0E2F3A);
       background-size: 400% 400%;
       animation: fondoMovimiento 12s ease infinite;
       display: flex;
@@ -51,5 +51,5 @@
   </style>
 </head>
 <body>
-  <h1>Proceso por Semestre</h1>
+  <h1>PERFIL</h1>
 </body>
